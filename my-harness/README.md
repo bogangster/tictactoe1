@@ -26,3 +26,10 @@ Claude Code 설치 · Figma MCP 등록 · 바탕화면 `my-harness` 폴더 생�
 | 2 | `user-stories.md` | 모든 스토리에 이유 · 도메인 스토리 번호 참조 |
 | 3 | `spec.md` | 규칙 R1~R8마다 인수 조건 1개 이상 · 화면별 빈/오류/진행 상태 · 사람 승인 1회 |
 | 4 | `src/`, `tests/` | 인수 조건 AC-1~10마다 테스트 1개 · `npm test` 전부 통과 |
+
+## Figma 와이어프레임
+https://www.figma.com/design/tCBnkMpncv5vsa6KLjKBn9
+- **Tokens 변수 컬렉션**: design.md 컬러 12 · 간격 6 · 모서리 3 · 크기 2 (코드 문법 `var(--color-bg-surface)` 형식)
+- **텍스트 스타일**: Display · Title · Body · Label · Caption · Board mark (Pretendard)
+- **Components 페이지**: Button(Style) · Cell(Mark × Win) · Turn badge(Player) · Toast(Message)
+- **Page 1**: spec ④ 화면 상태 8개 — 위 컴포넌트 인스턴스 + 변수 연결
