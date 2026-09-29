@@ -10,3 +10,11 @@
 | `prd.md` | 내 서비스 PRD 5블록 |
 | `design.md` | 디자인 규칙 6섹션 |
 | `task-domain.md` | 실습할 내 업무 1개 선정 워크시트 |
+
+## 한 번에 세팅하기 (내 PC)
+- **Mac**: 터미널에 붙여넣기
+  `curl -fsSL https://raw.githubusercontent.com/bogangster/tictactoe1/claude/tender-thompson-ijc1fy/my-harness/setup-mac.sh | bash`
+- **Windows**: `setup-windows.ps1` 다운로드 → PowerShell에서 `powershell -ExecutionPolicy Bypass -File setup-windows.ps1`
+
+Claude Code 설치 · Figma MCP 등록 · 바탕화면 `my-harness` 폴더 생성까지 자동으로 합니다.
+남는 건 로그인/인증 클릭과 UI Bowl 가입뿐이에요.
