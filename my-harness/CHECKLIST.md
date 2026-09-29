@@ -7,7 +7,7 @@
 - [ ] **Figma MCP 연결 (Figma Pro 이상)**
   - `claude mcp add --transport http figma https://mcp.figma.com/mcp`
   - Claude Code 안에서 `/mcp` → figma 인증 → **connected** 확인
-  - 참고: 계정 `ruby@iriscorp.co.kr`의 **iris crop. 팀이 Pro 플랜**(Full seat)이라 요건 충족 ✅
+  - 참고: **iris crop. 팀이 Pro 플랜**(Full seat)이라 요건 충족 ✅
     (ruby's team은 starter라 Pro 기능이 필요하면 iris crop. 팀 파일로 작업하세요)
 - [ ] **UI Bowl MCP 연결 (무료 가입)**
   - UI Bowl 사이트에서 가입 → 안내된 MCP 추가 명령 실행
